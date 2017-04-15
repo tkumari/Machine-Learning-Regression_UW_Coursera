@@ -1,0 +1,7 @@
+# Intro 
+
+This week covers the introduction to the course & basics of Linear Regression. Regression allows us to make predictions from data by learning the relationship between features of your data and some observed continuous-valued response. 
+Simple Linear Regression
+-	Fitting a line to the data to make predictions from a simple, univariate feature of the data.  e.g.  predicting house prices based on their square-feet area
+Data :  y(i)=w0 + w1 x(i) + e(i)
+Model: f(x)=w0 + w1 x
